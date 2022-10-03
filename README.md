@@ -1,6 +1,6 @@
 # Azure API Management Policy Snippets
 
-# Examples
+# Examples 1
 
 The `examples/` folder contains policy examples contributed by the product team and the user community. The samples are meant to be re-used verbatim, provide inspiration or serve as learning aids. Some of them are parameterized using [Named Values](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-properties) (formerly known as Properties), which look like this: `{{some-value}}`. When using parametrized samples, you will have to either define relevant Named Values or replace them with values in place.
 
